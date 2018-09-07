@@ -15,7 +15,7 @@ console.log(question.get('question'));
 
 question.delete(4);
 
-if(question.has(4)){
-  question.delete(4))
-}
-question.clear();
+//if(question.has(4)){
+//  question.delete(4))
+//}
+//question.clear();

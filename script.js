@@ -10,3 +10,5 @@ question.set(4, 'ES7');
 question.set('correct', 3);
 question.set(true, 'correct answer :D');
 question.set(false, 'wrong answer :(');
+
+console.log(question.get('question'));

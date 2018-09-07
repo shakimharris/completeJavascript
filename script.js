@@ -20,3 +20,5 @@ question.delete(4);
 console.log('the value is here');
 //}
 //question.clear();
+question.forEach((value, key) => console.log(`This is ${key} and it's
+set to the ${value}`))

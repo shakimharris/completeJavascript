@@ -21,7 +21,7 @@ console.log('the value is here');
 //}
 //question.clear();
 question.forEach((value, key) => console.log(`This is ${key} and it's
-set to the ${value}`));
+set to the ${value}`);
 
 for (let [key, value] of question.entries((){
 

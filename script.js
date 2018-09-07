@@ -23,6 +23,6 @@ console.log('the value is here');
 question.forEach((value, key) => console.log(`This is ${key} and it's
 set to the ${value}`));
 
-for (let key of question.entries((){
-  
+for (let [key, value] of question.entries((){
+
 }

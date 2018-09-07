@@ -26,3 +26,4 @@ console.log('the value is here');
 for (let [key, value] of question.entries((
 ){
     if(typeof(key === 'number'))
+    console.log(`Answer {$key}:{$value}`);

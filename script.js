@@ -18,3 +18,4 @@ question.delete(4);
 if(question.has(4)){
   question.delete(4))
 }
+question.clear();

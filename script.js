@@ -12,3 +12,5 @@ question.set(true, 'correct answer :D');
 question.set(false, 'wrong answer :(');
 
 console.log(question.get('question'));
+
+question.delete(4);

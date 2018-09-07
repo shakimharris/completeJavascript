@@ -17,5 +17,6 @@ question.delete(4);
 
 //if(question.has(4)){
 //  question.delete(4))
+console.log('the value is here');
 //}
 //question.clear();

@@ -27,3 +27,5 @@ for (let [key, value] of question.entries((
 ){
     if(typeof(key === 'number'))
     console.log(`Answer {$key}:{$value}`);
+
+const ans = parseInt(prompt('Write the correct answer'));
